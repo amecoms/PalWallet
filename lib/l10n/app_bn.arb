@@ -1,0 +1,8 @@
+{
+  "appName": "Genius Bank",
+  "unauthenticated" : "অনুমোদনহীন",
+  "somethingWentWrong" : "কিছু ভুল হয়েছে!",
+  "checkYourInternetConnection" : "আপনার ইন্টারনেট সংযোগ যাচাই করুন",
+  "noDataHere" : "এখেনে কোন তথ্য নেই!",
+  "copiedSuccessfully": "সফলভাবে কপি করা হয়েছে৷"
+}
